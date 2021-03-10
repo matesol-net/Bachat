@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "223657040218",
+    "firebase_url": "https://bachat-c8275-default-rtdb.firebaseio.com",
+    "project_id": "bachat-c8275",
+    "storage_bucket": "bachat-c8275.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223657040218:android:047b437f6165c3767a3b63",
+        "android_client_info": {
+          "package_name": "com.synergicprofessional.bachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223657040218-s8vmstmv8c6vhtvsksrssmob2cad7gg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQLVdhggL1DJb5Xlzc5gW-CBFe0pJuV6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223657040218-s8vmstmv8c6vhtvsksrssmob2cad7gg3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "223657040218-cbdliu81kkpa7pd4q6orehutlvtu0oul.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.synergicprofessional.bachat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
